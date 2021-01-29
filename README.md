@@ -1,6 +1,8 @@
 # Tesla Clone
 Tesla Front-page Clone built with React.js & Material UI 
 
+<img src="tesla.png">
+
 
 # Getting Started with Create React App
 
